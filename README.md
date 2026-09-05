@@ -1,4 +1,4 @@
-# React Todo-app - Testprojekt
+﻿# React Todo-app - Testprojekt
 
 Detta projekt är en individuell examinationsuppgift i mjukvarutestning. Den ursprungliga React Todo-appen har behållits och kompletterats med automatiserade tester och dokumentation.
 
@@ -96,9 +96,10 @@ npm run build
 Dokumentationen finns i mappen `Documentation`:
 
 - `Testplan.docx` - testplan
+- `Testplan_React-Todo-app.pdf` - PDF-version av testplanen
 - `Manuella-testfall.docx` - genomförda manuella testfall
+- `Manuella-testfall_React-Todo-app.pdf` - PDF-version av de manuella testfallen
 - `VG-rapport.md` - analys av testnivåer, testval, risker och AI-användning
-- `Testplan.md` - textversion av testplanen
 
 ## Testresultat
 
@@ -118,3 +119,4 @@ VITE_BUTTON_VARIANT=A
 - `B` visar **Skapa uppgift**
 
 Starta om React-appen efter att `.env` har ändrats.
+
